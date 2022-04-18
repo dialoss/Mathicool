@@ -46,15 +46,6 @@ public class GameManager : MonoBehaviour
 
     private void exit()
     {
-		if (Variables.prevScene == "Book" && isPlayerWin())
-        {
-            int bookStar = Variables.bookStar;
-            int bookLevel = PlayerPrefs.GetInt("bookLevel", 0);
-            int playerScore = Mathf.Min(bookStar + 1, 3);
-            PlayerPrefs.SetInt(Variables.gameType, playerScore);
-            if (playerScore > bookStar) PlayerPrefs.SetInt("allStars", PlayerPrefs.GetInt("allStars", 0) + 1);
-            if (playerScore >= 2) PlayerPrefs.SetInt("bookLevel", Mathf.Max(bookLevel, Variables.bookLevel + 1));
-        }
         if (waitedTime > resetTime && checkInput())
         {
             waitedTime = 0;
