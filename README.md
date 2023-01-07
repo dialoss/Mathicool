@@ -14,7 +14,7 @@ A game in which player have to beat monsters solving simple math problems. The g
 https://user-images.githubusercontent.com/82834460/211169608-6e879f07-af3e-487d-b0f2-c88df4305385.mp4
 
 # Screenshots
-<p float="left">
+<p float="left" align="middle">
   <img src="https://user-images.githubusercontent.com/82834460/211169655-977370d8-9c59-43eb-a8ef-7b92f2537521.png" width=20% height=20%>
   <img src="https://user-images.githubusercontent.com/82834460/211169657-651c1975-2e93-42ef-8aad-cd196c988b5a.png" width=20% height=20%>
   <img src="https://user-images.githubusercontent.com/82834460/211169656-f12c38cd-78be-454e-934f-2459addfa514.png" width=20% height=20%>
