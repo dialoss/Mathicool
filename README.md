@@ -1,2 +1,5 @@
-# mathicool
-Unity version 2020.3.30f1
+# Mathicool
+A game where player have to beat monsters solving simple math problems. The game was made as a high school graduation project.
+
+# Preview
+
