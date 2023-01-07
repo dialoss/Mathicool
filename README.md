@@ -15,10 +15,8 @@ https://user-images.githubusercontent.com/82834460/211169608-6e879f07-af3e-487d-
 
 # Screenshots
 
-![Shop](https://user-images.githubusercontent.com/82834460/211169655-977370d8-9c59-43eb-a8ef-7b92f2537521.png)
-![Levels](https://user-images.githubusercontent.com/82834460/211169656-f12c38cd-78be-454e-934f-2459addfa514.png)
-![Difficulty](https://user-images.githubusercontent.com/82834460/211169657-651c1975-2e93-42ef-8aad-cd196c988b5a.png)
-![Theory](https://user-images.githubusercontent.com/82834460/211169658-3d9836f3-47a6-4bb7-8cd7-9b05cd299a05.png)
-![Main](https://user-images.githubusercontent.com/82834460/211169696-43e0c5a2-617b-4db8-96dd-195d87d96e74.jpg)
-
-<img src="https://user-images.githubusercontent.com/82834460/211169696-43e0c5a2-617b-4db8-96dd-195d87d96e74.jpg" width=20% height=20%>
+<img src="https://user-images.githubusercontent.com/82834460/211169696-43e0c5a2-617b-4db8-96dd-195d87d96e74.jpg" width=20% height=300>
+<img src="https://user-images.githubusercontent.com/82834460/211169655-977370d8-9c59-43eb-a8ef-7b92f2537521.png" width=20% height=20%>
+<img src="https://user-images.githubusercontent.com/82834460/211169657-651c1975-2e93-42ef-8aad-cd196c988b5a.png" width=20% height=20%>
+<img src="https://user-images.githubusercontent.com/82834460/211169656-f12c38cd-78be-454e-934f-2459addfa514.png" width=20% height=20%>
+<img src="https://user-images.githubusercontent.com/82834460/211169658-3d9836f3-47a6-4bb7-8cd7-9b05cd299a05.png" width=20% height=20%
