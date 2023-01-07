@@ -39,9 +39,9 @@ public class Shop : MonoBehaviour
             }
         }
     }
-    public void selectSkin(string name)
+    public void SelectSkin(string name)
     {
-        int ind = checkName(name);
+        int ind = CheckName(name);
         if (ind >= 0 && currentMoney >= prices[ind])
         {
             if (ind == 4 && PlayerPrefs.GetInt("allStars", 0) < Variables.bookLevels * 3) return;
@@ -51,10 +51,10 @@ public class Shop : MonoBehaviour
     }
     private void Update()
     {
-        checkInput();
+        CheckInput();
     }
 
-    private void checkInput()
+    private void CheckInput()
     {
         currentMoney = PlayerPrefs.GetInt("playerMoney", 0);
         moneyCount.text = currentMoney.ToString();
@@ -84,7 +84,7 @@ public class Shop : MonoBehaviour
         }
     }
    
-    private int checkName(string name)
+    private int CheckName(string name)
     {
         for (int i = 0; i < skinNames.Length; i++)
         {

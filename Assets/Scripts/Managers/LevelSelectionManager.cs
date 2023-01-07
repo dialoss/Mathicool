@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class LevelSelectionManager : MonoBehaviour
 {
-    public void Selection(string type)
+    public void loadLevel(string type)
     {
         if (type == "train")
         {

@@ -10,8 +10,8 @@ public static class Variables
     public static string prevScene;
     public static string gameType = "add";
     public static bool book = false;
-    public static int bookLevel = 0;
-    public static int bookStar = 0;
+    public static int bookLevel = 4;
+    public static int bookStar = 2;
     public static int monsterHealth = 10;
     public static int playerHealth = 5;
     public static int bookLevels = 6;

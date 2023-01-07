@@ -42,9 +42,9 @@ public class BookManager : MonoBehaviour
     private void Update()
     {
         int level = PlayerPrefs.GetInt("bookLevel", 0);
-        updateTiles(level);
+        UpdateTiles(level);
     }
-    private void updateTiles(int level)
+    private void UpdateTiles(int level)
     {
         for (int i = 0; i < tiles.Count; i++)
         {

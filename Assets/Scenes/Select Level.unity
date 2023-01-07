@@ -145,7 +145,7 @@ PrefabInstance:
       objectReference: {fileID: 1846052011}
     - target: {fileID: 8390689891629810222, guid: 1971a041dc5be3a41b3c9b60f3cc7ba2, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: Selection
+      value: loadLevel
       objectReference: {fileID: 0}
     - target: {fileID: 8390689891629810222, guid: 1971a041dc5be3a41b3c9b60f3cc7ba2, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
@@ -364,7 +364,7 @@ PrefabInstance:
       objectReference: {fileID: 1846052011}
     - target: {fileID: 8390689891629810222, guid: 1971a041dc5be3a41b3c9b60f3cc7ba2, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: Selection
+      value: loadLevel
       objectReference: {fileID: 0}
     - target: {fileID: 8390689891629810222, guid: 1971a041dc5be3a41b3c9b60f3cc7ba2, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
@@ -1078,7 +1078,7 @@ PrefabInstance:
       objectReference: {fileID: 1846052011}
     - target: {fileID: 8390689891629810222, guid: 1971a041dc5be3a41b3c9b60f3cc7ba2, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: Selection
+      value: loadLevel
       objectReference: {fileID: 0}
     - target: {fileID: 8390689891629810224, guid: 1971a041dc5be3a41b3c9b60f3cc7ba2, type: 3}
       propertyPath: m_Name
@@ -1187,7 +1187,7 @@ PrefabInstance:
       objectReference: {fileID: 1846052011}
     - target: {fileID: 8390689891629810222, guid: 1971a041dc5be3a41b3c9b60f3cc7ba2, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: Selection
+      value: loadLevel
       objectReference: {fileID: 0}
     - target: {fileID: 8390689891629810222, guid: 1971a041dc5be3a41b3c9b60f3cc7ba2, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
@@ -1655,7 +1655,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1846052011}
         m_TargetAssemblyTypeName: LevelSelectionManager, Assembly-CSharp
-        m_MethodName: Selection
+        m_MethodName: loadLevel
         m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
